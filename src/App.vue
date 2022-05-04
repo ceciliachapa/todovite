@@ -1,6 +1,6 @@
 <script setup>
-import Title from "./components/title.vue";
-import List from "./components/list.vue";
+import Title from './components/title.vue';
+import List from './components/list.vue';
 </script>
 
 <template>
